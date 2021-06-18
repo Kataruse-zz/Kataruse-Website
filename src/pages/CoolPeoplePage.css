@@ -1,0 +1,19 @@
+.people {
+  border-color: goldenrod;
+  border-width: 5px;
+  border-radius: 10px;
+  border-style: solid;
+  width: 150px;
+}
+
+.user {
+  color: darkolivegreen
+}
+
+.coollinks {
+    color: goldenrod;
+    }
+
+.coollinks:hover {
+    color: lightcoral;
+}
