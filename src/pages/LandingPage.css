@@ -1,0 +1,49 @@
+.title {
+  color: darkcyan;
+}
+
+div {
+  background-color: darkred;
+  display: flow-root;
+  text-align: center
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    color: goldenrod;
+    }
+
+li a:hover {
+    color: lightcoral;
+}
+
+.projects {
+  border-color: goldenrod;
+  border-width: 5px;
+  border-radius: 10px;
+  border-style: solid;
+  width: 400px;
+}
+
+.projects:hover {
+  border-color: lightcoral;
+}
+
+.subtitle {
+    color: darkgray;
+}
+
+.myprojects {
+    color: goldenrod;
+}
+
+.myprojects:hover {
+  color: lightcoral;
+}
+
+a {
+  text-decoration: none;
+}
